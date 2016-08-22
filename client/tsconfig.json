@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "jsx": "react",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "target": "ES5",
+    "experimentalDecorators": true
+  },
+  "compileOnSave": false,
+  "exclude": [
+    "node_modules",
+    "build"
+  ]
+}

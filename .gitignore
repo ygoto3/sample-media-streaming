@@ -1,0 +1,19 @@
+# OS X files
+.DS_Store
+Thumbs.db
+
+# Generated files
+npm-debug.log
+**/node_modules/
+client/build/
+client/coverage/
+client/typings/
+server/vendor/
+server/storage/*
+!server/storage/README.md
+server/tmp/*
+!server/tmp/README.md
+
+# Intellij project files
+.idea
+*.iml
