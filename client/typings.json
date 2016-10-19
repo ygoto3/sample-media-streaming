@@ -1,5 +1,7 @@
 {
   "name": "sample-media-streaming",
   "dependencies": {},
-  "globalDependencies": {}
+  "globalDependencies": {
+    "swfobject": "registry:dt/swfobject#2.2.0+20160317120654"
+  }
 }
